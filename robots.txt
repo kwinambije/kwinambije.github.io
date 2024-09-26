@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kwinambije.github.io/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/app/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/assets/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/css/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/data/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/includes/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/item/sitemap.kwinambije.gz
+Sitemap: https://kwinambije.github.io/src/sitemap.kwinambije.gz
